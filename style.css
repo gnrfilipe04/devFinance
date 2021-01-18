@@ -34,9 +34,7 @@ h2 {
 /* Header ================*/
 
 header {
-    /* background: #2D4A22; */
-    /* background: rgb(26, 26, 63); */
-    background: red;
+    background: rgb(26, 26, 63);
     padding: 2rem 0 10rem;
     text-align: center;
 }
